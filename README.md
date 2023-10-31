@@ -1,2 +1,2 @@
 # Employee-Retention-Project
-Salifort Motors seeks to improve employee retention
+Salifort Motors is looking to improve employee retention, so let's provide data-driven suggestions for HR.
